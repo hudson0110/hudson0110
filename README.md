@@ -23,6 +23,9 @@ Estudante de Sistema de Informação na UFV. Apaixonado por desenvolvimento de s
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hudson-candido-9a8b91250/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:hudsoncandido0110@gmail.com)
+[![Steam](https://img.shields.io/badge/Steam-333333?style=for-the-badge&logo=gmail&logoColor=red)](https://steamcommunity.com/id/hudson0110/)
+
+
 ##
  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hudson0110&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
